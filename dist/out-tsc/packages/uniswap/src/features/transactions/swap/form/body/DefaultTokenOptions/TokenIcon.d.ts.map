@@ -1,0 +1,1 @@
+{"version":3,"file":"TokenIcon.d.ts","sourceRoot":"","sources":["../../../../../../../../../../../packages/uniswap/src/features/transactions/swap/form/body/DefaultTokenOptions/TokenIcon.tsx"],"names":[],"mappings":"AAKA,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,oCAAoC,CAAA;AAStE,OAAO,EAAE,aAAa,EAAE,MAAM,4BAA4B,CAAA;AAG1D,eAAO,MAAM,SAAS;kBAMN,YAAY;WACnB,MAAM;gBACD,MAAM;;MAEhB,WAoEH,CAAA"}

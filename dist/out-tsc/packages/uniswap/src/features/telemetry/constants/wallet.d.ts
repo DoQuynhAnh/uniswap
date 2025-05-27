@@ -1,0 +1,36 @@
+import { TestnetModeConfig } from 'utilities/src/telemetry/analytics/analytics';
+export declare enum WalletEventName {
+    AppRating = "App Rating",
+    BackupMethodAdded = "Backup Method Added",
+    BackupMethodRemoved = "Backup Method Removed",
+    DappRequestCardClosed = "DappRequestCardClosed",
+    DappRequestCardPressed = "DappRequestCardPressed",
+    ExploreSearchCancel = "Explore Search Cancel",
+    ExternalLinkOpened = "External Link Opened",
+    GasEstimateAccuracy = "Gas Estimate Accuracy",
+    KeyringMissingMnemonic = "Keyring Missing Mnemonic",
+    ModalClosed = "Modal Closed",
+    MismatchAccountSignatureRequestBlocked = "Mismatch Account Signature Request Blocked",
+    NFTVisibilityChanged = "NFT Visibility Changed",
+    NFTsLoaded = "NFTs Loaded",
+    NetworkFilterSelected = "Network Filter Selected",
+    OnboardingIntroCardClosed = "Onboarding Intro Card Closed",
+    OnboardingIntroCardPressed = "Onboarding Intro Card Pressed",
+    OnboardingIntroCardSwiped = "Onboarding Intro Card Swiped",
+    PendingTransactionTimeout = "Pending Transaction Timeout",
+    PerformanceGraphql = "Performance GraphQL",
+    PortfolioBalanceFreshnessLag = "Portfolio Balance Freshness Lag",
+    SendRecipientSelected = "Send Recipient Selected",
+    ShareButtonClicked = "Share Button Clicked",
+    SwapSubmitted = "Swap Submitted to Provider",
+    TestnetEvent = "Testnet Event",
+    TestnetModeToggled = "Testnet Mode Toggled",
+    TokenVisibilityChanged = "Token Visibility Changed",
+    TransferCompleted = "Transfer Completed",
+    TransferSubmitted = "Transfer Submitted",
+    ViewRecoveryPhrase = "View Recovery Phrase",
+    WalletAdded = "Wallet Added",
+    WalletRemoved = "Wallet Removed"
+}
+export declare const WALLET_TESTNET_CONFIG: TestnetModeConfig;
+//# sourceMappingURL=wallet.d.ts.map

@@ -1,0 +1,2 @@
+export declare const UniswapLogoSmall: import("../factories/createIcon").GeneratedIcon, AnimatedUniswapLogoSmall: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=UniswapLogoSmall.d.ts.map

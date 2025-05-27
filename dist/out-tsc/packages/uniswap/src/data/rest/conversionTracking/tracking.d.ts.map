@@ -1,0 +1,1 @@
+{"version":3,"file":"tracking.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/data/rest/conversionTracking/tracking.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,cAAc,EAAE,MAAM,oBAAoB,CAAA;AAGxD,OAAO,EAAE,YAAY,EAAE,MAAM,qDAAqD,CAAA;AAQlF,OAAO,EAAE,qBAAqB,EAA+B,MAAM,gDAAgD,CAAA;AA0EnH,eAAO,MAAM,iBAAiB,SAAU,qBAAqB,KAAG,eAAe,YAAY,CAa1F,CAAA"}

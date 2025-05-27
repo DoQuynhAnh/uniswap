@@ -1,0 +1,1 @@
+{"version":3,"file":"hooks.d.ts","sourceRoot":"","sources":["../../../../../../../packages/uniswap/src/features/trm/hooks.ts"],"names":[],"mappings":"AAGA,MAAM,WAAW,eAAe;IAC9B,gBAAgB,EAAE,OAAO,CAAA;IACzB,SAAS,EAAE,OAAO,CAAA;CACnB;AAED,iEAAiE;AACjE,wBAAgB,YAAY,CAAC,OAAO,CAAC,EAAE,MAAM,EAAE,UAAU,UAAQ,GAAG,eAAe,CAYlF"}

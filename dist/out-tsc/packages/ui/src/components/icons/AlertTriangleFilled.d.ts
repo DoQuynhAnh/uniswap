@@ -1,0 +1,2 @@
+export declare const AlertTriangleFilled: import("../factories/createIcon").GeneratedIcon, AnimatedAlertTriangleFilled: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=AlertTriangleFilled.d.ts.map

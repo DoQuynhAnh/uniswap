@@ -1,0 +1,1 @@
+{"version":3,"file":"useGetCanSignPermits.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/features/transactions/hooks/useGetCanSignPermits.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,mCAAmC,CAAA;AAMnE,wBAAgB,oBAAoB,IAAI,CAAC,OAAO,CAAC,EAAE,eAAe,KAAK,OAAO,CAQ7E"}

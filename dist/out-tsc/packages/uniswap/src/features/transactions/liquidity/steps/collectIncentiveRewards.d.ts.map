@@ -1,0 +1,1 @@
+{"version":3,"file":"collectIncentiveRewards.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/uniswap/src/features/transactions/liquidity/steps/collectIncentiveRewards.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,wBAAwB,EAAE,mBAAmB,EAAE,MAAM,+CAA+C,CAAA;AAE7G,MAAM,WAAW,wCAAyC,SAAQ,wBAAwB;IACxF,IAAI,EAAE,mBAAmB,CAAC,wCAAwC,CAAA;CACnE"}

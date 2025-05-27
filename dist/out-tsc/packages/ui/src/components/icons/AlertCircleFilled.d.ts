@@ -1,0 +1,2 @@
+export declare const AlertCircleFilled: import("../factories/createIcon").GeneratedIcon, AnimatedAlertCircleFilled: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=AlertCircleFilled.d.ts.map

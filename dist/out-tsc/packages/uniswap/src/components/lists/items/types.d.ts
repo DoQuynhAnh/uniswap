@@ -1,0 +1,62 @@
+import { ProtocolVersion } from 'uniswap/src/data/graphql/uniswap-data-api/__generated__/types-and-hooks';
+import { UniverseChainId } from 'uniswap/src/features/chains/types';
+import { CurrencyInfo } from 'uniswap/src/features/dataApi/types';
+export declare enum OnchainItemListOptionType {
+    Token = "Token",
+    Pool = "Pool",
+    WalletByAddress = "WalletByAddress",
+    ENSAddress = "ENSAddress",
+    Unitag = "Unitag",
+    NFTCollection = "NFTCollection"
+}
+export interface BaseOption {
+    type: OnchainItemListOptionType;
+}
+export interface TokenOption extends BaseOption {
+    type: OnchainItemListOptionType.Token;
+    currencyInfo: CurrencyInfo;
+    quantity: number | null;
+    balanceUSD: Maybe<number>;
+    isUnsupported?: boolean;
+}
+export interface PoolOption extends BaseOption {
+    type: OnchainItemListOptionType.Pool;
+    poolId: string;
+    chainId: UniverseChainId;
+    token0CurrencyInfo: CurrencyInfo;
+    token1CurrencyInfo: CurrencyInfo;
+    protocolVersion: ProtocolVersion;
+    hookAddress?: string;
+    feeTier: number;
+}
+export type WalletOption = WalletByAddressOption | ENSAddressOption | UnitagOption;
+export interface WalletByAddressOption extends BaseOption {
+    type: OnchainItemListOptionType.WalletByAddress;
+    address: Address;
+}
+export interface ENSAddressOption extends BaseOption {
+    type: OnchainItemListOptionType.ENSAddress;
+    address: Address;
+    isRawName?: boolean;
+    ensName: string;
+    primaryENSName?: string;
+}
+export interface UnitagOption extends BaseOption {
+    type: OnchainItemListOptionType.Unitag;
+    address: Address;
+    unitag: string;
+}
+export interface NFTCollectionOption extends BaseOption {
+    type: OnchainItemListOptionType.NFTCollection;
+    chainId: UniverseChainId;
+    address: Address;
+    name: string;
+    imageUrl: string | null;
+    isVerified: boolean;
+}
+export type MobileExploreSearchModalOption = TokenOption | WalletOption | NFTCollectionOption;
+export type WebSearchModalOption = TokenOption | PoolOption;
+export type SearchModalOption = MobileExploreSearchModalOption | WebSearchModalOption;
+export type TokenSelectorOption = TokenOption | TokenOption[];
+export type OnchainItemListOption = TokenSelectorOption | SearchModalOption;
+//# sourceMappingURL=types.d.ts.map

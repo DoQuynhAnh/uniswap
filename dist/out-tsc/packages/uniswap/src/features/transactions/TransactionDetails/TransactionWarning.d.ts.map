@@ -1,0 +1,1 @@
+{"version":3,"file":"TransactionWarning.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/features/transactions/TransactionDetails/TransactionWarning.tsx"],"names":[],"mappings":"AAEA,OAAO,EAAE,OAAO,EAAE,MAAM,kDAAkD,CAAA;AAE1E,eAAO,MAAM,kBAAkB;aAIpB,OAAO;mBACD,MAAM,IAAI;MACvB,WAQH,CAAA"}

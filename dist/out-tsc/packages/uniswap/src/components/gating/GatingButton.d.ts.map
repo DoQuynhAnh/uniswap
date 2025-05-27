@@ -1,0 +1,1 @@
+{"version":3,"file":"GatingButton.d.ts","sourceRoot":"","sources":["../../../../../../../packages/uniswap/src/components/gating/GatingButton.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAA;AACzB,OAAO,EAAE,MAAM,EAAE,MAAM,QAAQ,CAAA;AAE/B,KAAK,WAAW,GAAG,KAAK,CAAC,cAAc,CAAC,OAAO,MAAM,CAAC,CAAA;AACtD,eAAO,MAAM,YAAY,UAAW,KAAK,WAAW,EAAE,MAAM,GAAG,UAAU,CAAC,KAAG,WAE5E,CAAA"}

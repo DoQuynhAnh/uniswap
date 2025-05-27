@@ -1,0 +1,2 @@
+export declare const StatusIndicatorCircle: import("../factories/createIcon").GeneratedIcon, AnimatedStatusIndicatorCircle: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=StatusIndicatorCircle.d.ts.map

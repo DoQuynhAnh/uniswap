@@ -1,0 +1,1 @@
+{"version":3,"file":"useCexTransferProviders.d.ts","sourceRoot":"","sources":["../../../../../../../packages/uniswap/src/features/fiatOnRamp/useCexTransferProviders.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,kBAAkB,EAAE,MAAM,uCAAuC,CAAA;AAE1E,wBAAgB,uBAAuB,CAAC,MAAM,CAAC,EAAE;IAAE,UAAU,CAAC,EAAE,OAAO,CAAA;CAAE,GAAG,kBAAkB,EAAE,CAY/F"}

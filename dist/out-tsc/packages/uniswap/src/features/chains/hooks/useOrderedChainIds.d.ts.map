@@ -1,0 +1,1 @@
+{"version":3,"file":"useOrderedChainIds.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/features/chains/hooks/useOrderedChainIds.ts"],"names":[],"mappings":"AACA,OAAO,EAAiB,eAAe,EAAE,MAAM,mCAAmC,CAAA;AAKlF,wBAAgB,kBAAkB,CAAC,QAAQ,EAAE,eAAe,EAAE,GAAG,eAAe,EAAE,CAYjF"}

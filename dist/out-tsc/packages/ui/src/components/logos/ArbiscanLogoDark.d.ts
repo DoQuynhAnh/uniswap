@@ -1,0 +1,2 @@
+export declare const ArbiscanLogoDark: import("../factories/createIcon").GeneratedIcon, AnimatedArbiscanLogoDark: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=ArbiscanLogoDark.d.ts.map

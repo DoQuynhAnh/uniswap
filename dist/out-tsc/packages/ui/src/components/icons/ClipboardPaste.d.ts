@@ -1,0 +1,2 @@
+export declare const ClipboardPaste: import("../factories/createIcon").GeneratedIcon, AnimatedClipboardPaste: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=ClipboardPaste.d.ts.map

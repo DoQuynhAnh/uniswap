@@ -1,0 +1,2 @@
+export declare const OpEtherscanLogoDark: import("../factories/createIcon").GeneratedIcon, AnimatedOpEtherscanLogoDark: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=OpEtherscanLogoDark.d.ts.map

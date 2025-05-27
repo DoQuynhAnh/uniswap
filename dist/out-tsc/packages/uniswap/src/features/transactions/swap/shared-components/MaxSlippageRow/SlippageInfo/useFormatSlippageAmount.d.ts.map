@@ -1,0 +1,1 @@
+{"version":3,"file":"useFormatSlippageAmount.d.ts","sourceRoot":"","sources":["../../../../../../../../../../../packages/uniswap/src/features/transactions/swap/shared-components/MaxSlippageRow/SlippageInfo/useFormatSlippageAmount.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,iBAAiB,EAAE,MAAM,oDAAoD,CAAA;AAItF,wBAAgB,uBAAuB,CAAC,KAAK,EAAE,iBAAiB,GAAG,MAAM,CAmBxE"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"tamagui.config.js","sourceRoot":"","sources":["../../../../../packages/ui/src/tamagui.config.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,SAAS,CAAA;AACvC,OAAO,EAAE,UAAU,EAAE,MAAM,yBAAyB,CAAA;AACpD,OAAO,EAAE,uBAAuB,EAAE,MAAM,qBAAqB,CAAA;AAI7D,MAAM,CAAC,MAAM,MAAM,GAAG,aAAa,CAAC;IAClC,UAAU;IACV,GAAG,uBAAuB;CAC3B,CAAC,CAAA;AAEF,eAAe,MAAM,CAAA"}

@@ -1,0 +1,9 @@
+Added property gasStrategies to ApprovalRequest
+Added property gasStrategies to CreateSendRequest
+Added property gasStrategies to CreateSwapRequest
+Added property gasStrategies to QuoteRequest
+Added property gasEstimates to ApprovalResponse
+Added property gasEstimates to CreateSwapResponse
+Added property gasEstimates to CreateSendResponse
+Added property gasEstimates to ClassicQuote
+Trading API types have been updated

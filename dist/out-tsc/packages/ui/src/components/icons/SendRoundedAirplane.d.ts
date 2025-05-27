@@ -1,0 +1,2 @@
+export declare const SendRoundedAirplane: import("../factories/createIcon").GeneratedIcon, AnimatedSendRoundedAirplane: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=SendRoundedAirplane.d.ts.map

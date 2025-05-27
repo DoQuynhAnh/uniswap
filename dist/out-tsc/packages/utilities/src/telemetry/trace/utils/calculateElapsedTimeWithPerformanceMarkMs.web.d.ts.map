@@ -1,0 +1,1 @@
+{"version":3,"file":"calculateElapsedTimeWithPerformanceMarkMs.web.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/utilities/src/telemetry/trace/utils/calculateElapsedTimeWithPerformanceMarkMs.web.ts"],"names":[],"mappings":"AAAA;;;GAGG;AACH,wBAAgB,yCAAyC,CACvD,QAAQ,EAAE,MAAM,EAChB,iBAAiB,CAAC,EAAE,MAAM,GACzB,MAAM,GAAG,SAAS,CAUpB"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"useGetSwapDelegationAddress.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/features/transactions/hooks/useGetSwapDelegationAddress.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,mCAAmC,CAAA;AAKnE,wBAAgB,2BAA2B,IAAI,CAAC,OAAO,EAAE,eAAe,GAAG,SAAS,KAAK,MAAM,GAAG,SAAS,CAW1G"}

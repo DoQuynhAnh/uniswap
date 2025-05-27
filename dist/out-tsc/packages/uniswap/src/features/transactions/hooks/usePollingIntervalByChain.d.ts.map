@@ -1,0 +1,1 @@
+{"version":3,"file":"usePollingIntervalByChain.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/features/transactions/hooks/usePollingIntervalByChain.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,mCAAmC,CAAA;AAOnE,eAAO,MAAM,wBAAwB,QAAqB,CAAA;AAG1D,wBAAgB,yBAAyB,CAAC,OAAO,CAAC,EAAE,eAAe,GAAG,MAAM,CA4B3E"}

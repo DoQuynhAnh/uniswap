@@ -1,0 +1,1 @@
+{"version":3,"file":"usePreventOverflowBelowFold.d.ts","sourceRoot":"","sources":["../../../../../../packages/ui/src/hooks/usePreventOverflowBelowFold.tsx"],"names":[],"mappings":";AAEA,wBAAgB,2BAA2B,CAAC,SAAS,UAAO,GAAG;IAC7D,SAAS,EAAE,MAAM,CAAA;IACjB,GAAG,EAAE,KAAK,CAAC,SAAS,CAAC,cAAc,CAAC,CAAA;CACrC,CAmBA"}

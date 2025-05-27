@@ -1,0 +1,1 @@
+{"version":3,"file":"OnchainItemList.js","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/components/lists/OnchainItemList/OnchainItemList.tsx"],"names":[],"mappings":"AAKA,OAAO,EAAE,sBAAsB,EAAE,MAAM,sBAAsB,CAAA;AA4B7D,MAAM,UAAU,eAAe,CAAkC,MAA+B;IAC9F,MAAM,IAAI,sBAAsB,CAAC,iBAAiB,CAAC,CAAA;AACrD,CAAC"}

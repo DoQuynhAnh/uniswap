@@ -1,0 +1,1 @@
+{"version":3,"file":"useDebouncedTrade.d.ts","sourceRoot":"","sources":["../../../../../../../../../../../packages/uniswap/src/features/transactions/swap/form/footer/hooks/useDebouncedTrade.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,eAAe,EAAE,KAAK,EAAE,MAAM,oDAAoD,CAAA;AAG3F,wBAAgB,iBAAiB,IAAI,KAAK,GAAG,eAAe,GAAG,SAAS,CAiBvE"}

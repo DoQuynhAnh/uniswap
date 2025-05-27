@@ -1,0 +1,1 @@
+{"version":3,"file":"useUpdateSwapFormOnMountIfExactOutputWillFail.d.ts","sourceRoot":"","sources":["../../../../../../../../../../../packages/uniswap/src/features/transactions/swap/form/SwapFormScreen/hooks/useUpdateSwapFormOnMountIfExactOutputWillFail.ts"],"names":[],"mappings":"AAIA,eAAO,MAAM,6CAA6C,wBAAyB,OAAO,KAAG,IAa5F,CAAA"}

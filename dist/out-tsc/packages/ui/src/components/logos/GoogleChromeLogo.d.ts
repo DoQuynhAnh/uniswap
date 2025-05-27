@@ -1,0 +1,2 @@
+export declare const GoogleChromeLogo: import("../factories/createIcon").GeneratedIcon, AnimatedGoogleChromeLogo: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=GoogleChromeLogo.d.ts.map

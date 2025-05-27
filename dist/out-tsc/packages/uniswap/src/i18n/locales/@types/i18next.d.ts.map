@@ -1,0 +1,1 @@
+{"version":3,"file":"i18next.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/i18n/locales/@types/i18next.ts"],"names":[],"mappings":"AAAA,OAAO,SAAS,CAAA;AAIhB,QAAA,MAAM,SAAS;;CAEL,CAAC;AAEX,OAAO,QAAQ,SAAS,CAAC;IACvB,UAAU,iBAAiB;QACzB,SAAS,EAAE,OAAO,SAAS,CAAC;KAC7B;CACF"}

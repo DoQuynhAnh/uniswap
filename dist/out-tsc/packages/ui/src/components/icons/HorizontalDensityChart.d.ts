@@ -1,0 +1,2 @@
+export declare const HorizontalDensityChart: import("../factories/createIcon").GeneratedIcon, AnimatedHorizontalDensityChart: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=HorizontalDensityChart.d.ts.map

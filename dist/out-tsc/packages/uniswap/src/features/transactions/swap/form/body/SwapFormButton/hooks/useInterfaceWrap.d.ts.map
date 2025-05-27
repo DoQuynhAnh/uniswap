@@ -1,0 +1,1 @@
+{"version":3,"file":"useInterfaceWrap.d.ts","sourceRoot":"","sources":["../../../../../../../../../../../../packages/uniswap/src/features/transactions/swap/form/body/SwapFormButton/hooks/useInterfaceWrap.ts"],"names":[],"mappings":"AAWA,wBAAgB,gBAAgB,IAAI;IAClC,eAAe,EAAE,OAAO,CAAA;IACxB,eAAe,CAAC,EAAE,MAAM,IAAI,CAAA;CAC7B,CAqCA"}

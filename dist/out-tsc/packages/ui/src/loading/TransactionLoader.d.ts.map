@@ -1,0 +1,1 @@
+{"version":3,"file":"TransactionLoader.d.ts","sourceRoot":"","sources":["../../../../../../packages/ui/src/loading/TransactionLoader.tsx"],"names":[],"mappings":";AAIA,UAAU,sBAAsB;IAC9B,OAAO,EAAE,MAAM,CAAA;CAChB;AAED,eAAO,MAAM,4BAA4B,QAAmB,CAAA;AAE5D,wBAAgB,iBAAiB,CAAC,EAAE,OAAO,EAAE,EAAE,sBAAsB,GAAG,GAAG,CAAC,OAAO,CA4BlF"}

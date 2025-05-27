@@ -1,0 +1,1 @@
+{"version":3,"file":"useIsOffline.native.d.ts","sourceRoot":"","sources":["../../../../../../packages/utilities/src/connection/useIsOffline.native.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAc,MAAM,iCAAiC,CAAA;AAE1E,wBAAgB,SAAS,CAAC,aAAa,EAAE,YAAY,GAAG,OAAO,CAM9D;AAED,wBAAgB,YAAY,IAAI,OAAO,CAQtC"}

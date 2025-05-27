@@ -1,0 +1,1 @@
+{"version":3,"file":"SwapFeeWarning.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/uniswap/src/features/transactions/TransactionDetails/modals/SwapFeeWarning.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,OAAO,CAAA;AAYzC,wBAAgB,cAAc,CAAC,EAAE,KAAK,EAAE,QAAQ,EAAE,EAAE,iBAAiB,CAAC;IAAE,KAAK,EAAE,OAAO,CAAA;CAAE,CAAC,GAAG,GAAG,CAAC,OAAO,CA+CtG"}

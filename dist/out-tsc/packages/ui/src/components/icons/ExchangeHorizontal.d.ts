@@ -1,0 +1,2 @@
+export declare const ExchangeHorizontal: import("../factories/createIcon").GeneratedIcon, AnimatedExchangeHorizontal: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=ExchangeHorizontal.d.ts.map

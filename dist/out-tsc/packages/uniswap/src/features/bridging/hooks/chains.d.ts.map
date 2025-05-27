@@ -1,0 +1,1 @@
+{"version":3,"file":"chains.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/features/bridging/hooks/chains.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,eAAe,EAAE,MAAM,mCAAmC,CAAA;AASnE,wBAAgB,oBAAoB,IAAI,MAAM,CAY7C;AAED,wBAAgB,kBAAkB,CAAC,OAAO,EAAE,eAAe,GAAG,OAAO,CAYpE;AAED,wBAAgB,4BAA4B,IAAI,eAAe,EAAE,CAkBhE"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"events.js","sourceRoot":"","sources":["../../../../../../../packages/uniswap/src/test/fixtures/events.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,sBAAsB,GAAG;IACpC,WAAW,EAAE,EAAE,KAAK,EAAE,QAAQ,EAAE,KAAK,EAAE,QAAQ,EAAE;IACjD,cAAc,EAAE,IAAI,CAAC,EAAE,EAAE;IACzB,eAAe,EAAE,IAAI,CAAC,EAAE,EAAE;CAC3B,CAAA"}

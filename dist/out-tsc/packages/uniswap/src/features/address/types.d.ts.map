@@ -1,0 +1,1 @@
+{"version":3,"file":"types.d.ts","sourceRoot":"","sources":["../../../../../../../packages/uniswap/src/features/address/types.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,qCAAqC,CAAA;AAEjE,MAAM,WAAW,mBAAmB;IAClC,OAAO,EAAE,OAAO,CAAA;IAChB,IAAI,CAAC,EAAE,MAAM,GAAG,IAAI,CAAA;IACpB,QAAQ,CAAC,EAAE,OAAO,CAAA;IAClB,IAAI,CAAC,EAAE,WAAW,CAAA;CACnB"}

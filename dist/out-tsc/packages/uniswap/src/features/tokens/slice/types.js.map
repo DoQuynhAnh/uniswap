@@ -1,0 +1,1 @@
+{"version":3,"file":"types.js","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/features/tokens/slice/types.ts"],"names":[],"mappings":"AAaA,MAAM,UAAU,gBAAgB,CAAC,CAAU;IACzC,OAAO,OAAO,CAAC,CAAC,IAAI,OAAO,CAAC,KAAK,QAAQ,IAAI,SAAS,IAAI,CAAC,IAAI,SAAS,IAAI,CAAC,CAAC,CAAA;AAChF,CAAC;AAQD,MAAM,UAAU,iBAAiB,CAAC,CAAmC;IACnE,OAAO,UAAU,IAAI,CAAC,CAAA;AACxB,CAAC"}

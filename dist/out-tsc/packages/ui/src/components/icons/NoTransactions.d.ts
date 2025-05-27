@@ -1,0 +1,2 @@
+export declare const NoTransactions: import("../factories/createIcon").GeneratedIcon, AnimatedNoTransactions: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=NoTransactions.d.ts.map

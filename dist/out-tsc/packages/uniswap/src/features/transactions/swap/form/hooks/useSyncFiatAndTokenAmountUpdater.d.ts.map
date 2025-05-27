@@ -1,0 +1,1 @@
+{"version":3,"file":"useSyncFiatAndTokenAmountUpdater.d.ts","sourceRoot":"","sources":["../../../../../../../../../../packages/uniswap/src/features/transactions/swap/form/hooks/useSyncFiatAndTokenAmountUpdater.tsx"],"names":[],"mappings":"AAaA;;;;GAIG;AACH,wBAAgB,gCAAgC,CAAC,EAAE,IAAY,EAAE,EAAE;IAAE,IAAI,CAAC,EAAE,OAAO,CAAA;CAAE,GAAG,IAAI,CAqD3F"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"useSetActiveChainId.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/uniswap/src/features/smartWallet/delegation/hooks/useSetActiveChainId.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,KAAK,eAAe,EAAE,MAAM,mCAAmC,CAAA;AAIxE,wBAAgB,mBAAmB,IAAI,CAAC,OAAO,CAAC,EAAE,eAAe,KAAK,IAAI,CAKzE"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"percent.js","sourceRoot":"","sources":["../../../../../../packages/utilities/src/format/percent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,mBAAmB,CAAA;AAE3C,MAAM,iBAAiB,GAAG,MAAM,CAAA;AAEhC,MAAM,UAAU,gBAAgB,CAAC,KAAa;IAC5C,mDAAmD;IACnD,OAAO,IAAI,OAAO,CAAC,IAAI,CAAC,KAAK,CAAC,KAAK,GAAG,iBAAiB,CAAC,EAAE,iBAAiB,CAAC,CAAA;AAC9E,CAAC"}

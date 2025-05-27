@@ -1,0 +1,2 @@
+export declare const EtherscanLogoLight: import("../factories/createIcon").GeneratedIcon, AnimatedEtherscanLogoLight: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=EtherscanLogoLight.d.ts.map

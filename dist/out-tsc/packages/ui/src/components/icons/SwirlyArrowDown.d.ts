@@ -1,0 +1,2 @@
+export declare const SwirlyArrowDown: import("../factories/createIcon").GeneratedIcon, AnimatedSwirlyArrowDown: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=SwirlyArrowDown.d.ts.map

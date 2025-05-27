@@ -1,0 +1,1 @@
+{"version":3,"file":"usePrepareSwap.d.ts","sourceRoot":"","sources":["../../../../../../../../../../packages/uniswap/src/features/transactions/swap/services/hooks/usePrepareSwap.ts"],"names":[],"mappings":"AAYA,OAAO,EAAE,cAAc,EAAE,MAAM,gEAAgE,CAAA;AAQ/F,wBAAgB,cAAc,CAAC,GAAG,EAAE;IAAE,cAAc,EAAE,cAAc,CAAA;CAAE,GAAG,MAAM,IAAI,CAoDlF"}

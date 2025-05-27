@@ -1,0 +1,2 @@
+export declare const CheckmarkCircle: import("../factories/createIcon").GeneratedIcon, AnimatedCheckmarkCircle: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=CheckmarkCircle.d.ts.map

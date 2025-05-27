@@ -1,0 +1,2 @@
+export declare const DoubleChevronInverted: import("../factories/createIcon").GeneratedIcon, AnimatedDoubleChevronInverted: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=DoubleChevronInverted.d.ts.map

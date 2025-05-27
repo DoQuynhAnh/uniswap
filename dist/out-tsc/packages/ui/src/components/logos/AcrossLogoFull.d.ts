@@ -1,0 +1,2 @@
+export declare const AcrossLogoFull: import("../factories/createIcon").GeneratedIcon, AnimatedAcrossLogoFull: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=AcrossLogoFull.d.ts.map

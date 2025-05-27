@@ -1,0 +1,1 @@
+{"version":3,"file":"useFavoriteCurrencies.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/components/TokenSelector/hooks/useFavoriteCurrencies.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,SAAS,EAAE,MAAM,wBAAwB,CAAA;AAElD,OAAO,EAAE,YAAY,EAAE,MAAM,oCAAoC,CAAA;AAIjE,wBAAgB,qBAAqB,IAAI,SAAS,CAAC,YAAY,EAAE,CAAC,CAsBjE"}

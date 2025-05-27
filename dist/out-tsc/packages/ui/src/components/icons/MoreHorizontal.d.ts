@@ -1,0 +1,2 @@
+export declare const MoreHorizontal: import("../factories/createIcon").GeneratedIcon, AnimatedMoreHorizontal: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=MoreHorizontal.d.ts.map

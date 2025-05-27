@@ -1,0 +1,1 @@
+{"version":3,"file":"collectFees.js","sourceRoot":"","sources":["../../../../../../../../../packages/uniswap/src/features/transactions/liquidity/steps/collectFees.ts"],"names":[],"mappings":"AAAA,OAAO,EAA4B,mBAAmB,EAAE,MAAM,+CAA+C,CAAA;AAO7G,MAAM,UAAU,qBAAqB,CAAC,SAAsC;IAC1E,OAAO;QACL,IAAI,EAAE,mBAAmB,CAAC,0BAA0B;QACpD,SAAS;KACV,CAAA;AACH,CAAC"}

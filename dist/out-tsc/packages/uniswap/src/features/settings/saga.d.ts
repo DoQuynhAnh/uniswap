@@ -1,0 +1,2 @@
+export declare function getEnabledChainIdsSaga(): Generator<import("redux-saga/effects").SelectEffect | import("redux-saga/effects").CallEffect<import("uniswap/src/features/chains/types").EnabledChainsInfo>, import("uniswap/src/features/chains/types").EnabledChainsInfo, unknown>;
+//# sourceMappingURL=saga.d.ts.map

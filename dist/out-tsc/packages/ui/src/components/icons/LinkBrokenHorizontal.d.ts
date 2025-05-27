@@ -1,0 +1,2 @@
+export declare const LinkBrokenHorizontal: import("../factories/createIcon").GeneratedIcon, AnimatedLinkBrokenHorizontal: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=LinkBrokenHorizontal.d.ts.map

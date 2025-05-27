@@ -1,0 +1,2 @@
+export declare const SettingsWarning: import("../factories/createIcon").GeneratedIcon, AnimatedSettingsWarning: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=SettingsWarning.d.ts.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"widgets.d.ts","sourceRoot":"","sources":["../../../../../../packages/uniswap/src/types/widgets.ts"],"names":[],"mappings":"AAAA,oBAAY,UAAU;IACpB,UAAU,gBAAgB;CAC3B;AAED,MAAM,MAAM,WAAW,GAAG;IACxB,IAAI,EAAE,MAAM,CAAA;IACZ,MAAM,EAAE,MAAM,CAAA;IACd,MAAM,EAAE,OAAO,GAAG,SAAS,CAAA;CAC5B,CAAA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"types.d.ts","sourceRoot":"","sources":["../../../../../../../packages/ui/src/animations/layout/types.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,qBAAqB,EAAE,MAAM,cAAc,CAAA;AAEzD,MAAM,MAAM,sBAAsB,GAAG;IACnC,UAAU,CAAC,EAAE,OAAO,CAAA;IACpB,MAAM,CAAC,EAAE,MAAM,qBAAqB,CAAC,SAAS,CAAC,CAAA;CAChD,CAAA"}

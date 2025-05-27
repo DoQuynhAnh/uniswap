@@ -1,0 +1,2 @@
+export declare const ArrowDownCircleFilledWithBorder: import("../factories/createIcon").GeneratedIcon, AnimatedArrowDownCircleFilledWithBorder: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=ArrowDownCircleFilledWithBorder.d.ts.map

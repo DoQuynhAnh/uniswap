@@ -1,0 +1,2 @@
+export declare const ArrowUpInCircle: import("../factories/createIcon").GeneratedIcon, AnimatedArrowUpInCircle: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=ArrowUpInCircle.d.ts.map

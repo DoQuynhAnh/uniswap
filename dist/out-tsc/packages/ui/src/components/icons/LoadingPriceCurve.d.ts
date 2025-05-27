@@ -1,0 +1,2 @@
+export declare const LoadingPriceCurve: import("../factories/createIcon").GeneratedIcon, AnimatedLoadingPriceCurve: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=LoadingPriceCurve.d.ts.map

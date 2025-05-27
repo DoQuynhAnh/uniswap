@@ -1,0 +1,1 @@
+{"version":3,"file":"TokenAddressView.d.ts","sourceRoot":"","sources":["../../../../../../../packages/uniswap/src/features/address/TokenAddressView.tsx"],"names":[],"mappings":";AACA,OAAO,EAAE,QAAQ,EAAE,MAAM,mBAAmB,CAAA;AAgB5C,wBAAgB,gBAAgB,CAAC,EAC/B,QAAQ,EACR,SAAS,GACV,EAAE;IACD,QAAQ,EAAE,QAAQ,CAAA;IAClB,SAAS,EAAE,MAAM,CAAA;CAClB,GAAG,GAAG,CAAC,OAAO,GAAG,IAAI,CAmDrB"}

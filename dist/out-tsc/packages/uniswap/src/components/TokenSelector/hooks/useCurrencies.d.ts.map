@@ -1,0 +1,1 @@
+{"version":3,"file":"useCurrencies.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/components/TokenSelector/hooks/useCurrencies.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,SAAS,EAAE,MAAM,wBAAwB,CAAA;AAElD,OAAO,EAAE,YAAY,EAAE,MAAM,oCAAoC,CAAA;AAIjE,wBAAgB,aAAa,CAAC,WAAW,EAAE,MAAM,EAAE,GAAG,SAAS,CAAC,YAAY,EAAE,CAAC,CAwB9E"}

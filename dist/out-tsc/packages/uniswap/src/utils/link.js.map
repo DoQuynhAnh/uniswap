@@ -1,0 +1,1 @@
+{"version":3,"file":"link.js","sourceRoot":"","sources":["../../../../../../packages/uniswap/src/utils/link.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,sBAAsB,EAAE,MAAM,sBAAsB,CAAA;AAE7D,MAAM,CAAC,KAAK,UAAU,OAAO,CAAC,IAAY;IACxC,MAAM,IAAI,sBAAsB,CAAC,SAAS,CAAC,CAAA;AAC7C,CAAC;AAED,MAAM,CAAC,KAAK,UAAU,UAAU,CAAC,IAAY;IAC3C,MAAM,IAAI,sBAAsB,CAAC,YAAY,CAAC,CAAA;AAChD,CAAC"}

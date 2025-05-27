@@ -1,0 +1,1 @@
+{"version":3,"file":"TransactionModalUpdateLogger.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/uniswap/src/features/transactions/components/TransactionModal/TransactionModalUpdateLogger.tsx"],"names":[],"mappings":"AAGA,OAAO,EAAa,aAAa,EAAE,MAAM,0CAA0C,CAAA;AAInF,wBAAgB,4BAA4B,CAAC,EAAE,SAAS,EAAE,EAAE;IAAE,SAAS,EAAE,aAAa,CAAA;CAAE,GAAG,IAAI,CAW9F"}

@@ -1,0 +1,2 @@
+export declare const QuestionInCircle: import("../factories/createIcon").GeneratedIcon, AnimatedQuestionInCircle: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=QuestionInCircle.d.ts.map

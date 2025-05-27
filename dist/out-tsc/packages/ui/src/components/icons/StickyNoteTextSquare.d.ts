@@ -1,0 +1,2 @@
+export declare const StickyNoteTextSquare: import("../factories/createIcon").GeneratedIcon, AnimatedStickyNoteTextSquare: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=StickyNoteTextSquare.d.ts.map

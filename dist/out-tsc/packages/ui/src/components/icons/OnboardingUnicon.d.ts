@@ -1,0 +1,2 @@
+export declare const OnboardingUnicon: import("../factories/createIcon").GeneratedIcon, AnimatedOnboardingUnicon: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=OnboardingUnicon.d.ts.map

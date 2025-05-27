@@ -1,0 +1,1 @@
+{"version":3,"file":"useFeatureFlaggedChainIds.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/features/chains/hooks/useFeatureFlaggedChainIds.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,eAAe,EAAE,MAAM,mCAAmC,CAAA;AAMnE,wBAAgB,yBAAyB,IAAI,eAAe,EAAE,CAe7D"}

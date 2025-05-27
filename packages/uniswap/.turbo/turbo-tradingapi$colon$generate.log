@@ -1,0 +1,20 @@
+[2m• Packages in scope: uniswap[0m
+[2m• Running [0m[1m[2mtradingapi:generate:openapi, tradingapi:add-local-types[0m[2m in 1 packages
+[0m[2m• Remote caching disabled[0m
+[36muniswap:tradingapi:generate:openapi: [0mcache hit, replaying logs [2mbb27c2f339d91af0[0m
+[35muniswap:tradingapi:add-local-types: [0mcache hit, replaying logs [2mf9e7e41f7e4a231c[0m
+[35muniswap:tradingapi:add-local-types: [0mAdded property gasStrategies to ApprovalRequest
+[35muniswap:tradingapi:add-local-types: [0mAdded property gasStrategies to CreateSendRequest
+[35muniswap:tradingapi:add-local-types: [0mAdded property gasStrategies to CreateSwapRequest
+[35muniswap:tradingapi:add-local-types: [0mAdded property gasStrategies to QuoteRequest
+[35muniswap:tradingapi:add-local-types: [0mAdded property gasEstimates to ApprovalResponse
+[35muniswap:tradingapi:add-local-types: [0mAdded property gasEstimates to CreateSwapResponse
+[35muniswap:tradingapi:add-local-types: [0mAdded property gasEstimates to CreateSendResponse
+[35muniswap:tradingapi:add-local-types: [0mAdded property gasEstimates to ClassicQuote
+[35muniswap:tradingapi:add-local-types: [0mTrading API types have been updated
+
+[1m Tasks:    [32m[1m2 successful[0m, 2 total[0m
+[1mCached:    [1m2 cached[0m, 2 total[0m
+[1m  Time:    [1m266ms[0m [1m[38;2;18;45;128m>[0m[0;1m[1m[38;2;4;45;162m>[0m[0;1m[1m[38;2;1;45;194m>[0m[0;1m[1m[38;2;6;45;221m [0m[0;1m[1m[38;2;21;45;241mF[0m[0;1m[1m[38;2;44;45;252mU[0m[0;1m[1m[38;2;73;45;254mL[0m[0;1m[1m[38;2;106;45;247mL[0m[0;1m[1m[38;2;141;45;230m [0m[0;1m[1m[38;2;175;45;206mT[0m[0;1m[1m[38;2;205;45;176mU[0m[0;1m[1m[38;2;229;45;142mR[0m[0;1m[1m[38;2;246;45;107mB[0m[0;1m[1m[38;2;254;45;74mO[0m[0;1m[0m[0m
+
+[2m>  [0m                                                                                                                                                                                                                     [2K[2m>  [0m ...Finishing writing to cache...                                                                                                                                                                                    [2K

@@ -1,0 +1,1 @@
+{"version":3,"file":"permit2Signature.js","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/features/transactions/steps/permit2Signature.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,mBAAmB,EAAE,MAAM,+CAA+C,CAAA;AAcnF,MAAM,UAAU,0BAA0B,CAAC,UAA2B,EAAE,KAAe;IACrF,OAAO,EAAE,IAAI,EAAE,mBAAmB,CAAC,gBAAgB,EAAE,KAAK,EAAE,GAAG,UAAU,EAAE,CAAA;AAC7E,CAAC"}

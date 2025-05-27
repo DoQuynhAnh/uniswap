@@ -1,0 +1,1 @@
+{"version":3,"file":"ExcludedNetworkBanner.d.ts","sourceRoot":"","sources":["../../../../../../../packages/uniswap/src/components/banners/ExcludedNetworkBanner.tsx"],"names":[],"mappings":";AAMA,OAAO,EAAE,eAAe,EAAE,MAAM,mCAAmC,CAAA;AAEnE,UAAU,0BAA0B;IAClC,QAAQ,EAAE,eAAe,EAAE,CAAA;CAC5B;AAED,eAAO,MAAM,qBAAqB,kEA4BhC,CAAA"}

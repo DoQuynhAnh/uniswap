@@ -1,0 +1,1 @@
+{"version":3,"file":"getUniqueId.js","sourceRoot":"","sources":["../../../../../../packages/utilities/src/device/getUniqueId.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,sBAAsB,EAAE,MAAM,sBAAsB,CAAA;AAE7D,MAAM,CAAC,KAAK,UAAU,WAAW;IAC/B,MAAM,IAAI,sBAAsB,CAAC,aAAa,CAAC,CAAA;AACjD,CAAC"}

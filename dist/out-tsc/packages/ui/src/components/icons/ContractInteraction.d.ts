@@ -1,0 +1,2 @@
+export declare const ContractInteraction: import("../factories/createIcon").GeneratedIcon, AnimatedContractInteraction: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=ContractInteraction.d.ts.map

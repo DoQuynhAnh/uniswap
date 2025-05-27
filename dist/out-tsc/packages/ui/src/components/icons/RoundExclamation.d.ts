@@ -1,0 +1,2 @@
+export declare const RoundExclamation: import("../factories/createIcon").GeneratedIcon, AnimatedRoundExclamation: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=RoundExclamation.d.ts.map

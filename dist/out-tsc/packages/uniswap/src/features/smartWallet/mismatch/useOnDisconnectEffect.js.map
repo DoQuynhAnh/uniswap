@@ -1,0 +1,1 @@
+{"version":3,"file":"useOnDisconnectEffect.js","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/features/smartWallet/mismatch/useOnDisconnectEffect.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,sBAAsB,EAAE,MAAM,sBAAsB,CAAA;AAE7D,MAAM,UAAU,qBAAqB;IACnC,MAAM,IAAI,sBAAsB,CAAC,uBAAuB,CAAC,CAAA;AAC3D,CAAC"}

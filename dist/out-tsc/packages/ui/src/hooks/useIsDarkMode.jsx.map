@@ -1,0 +1,1 @@
+{"version":3,"file":"useIsDarkMode.jsx","sourceRoot":"","sources":["../../../../../../packages/ui/src/hooks/useIsDarkMode.tsx"],"names":[],"mappings":"AAAA,oEAAoE;AACpE,oEAAoE;AACpE,OAAO,EAAE,YAAY,EAAE,MAAM,eAAe,CAAA;AAE5C,MAAM,UAAU,aAAa;IAC3B,MAAM,SAAS,GAAG,YAAY,EAAE,CAAA;IAChC,OAAO,SAAS,CAAC,UAAU,CAAC,MAAM,CAAC,CAAA;AACrC,CAAC"}

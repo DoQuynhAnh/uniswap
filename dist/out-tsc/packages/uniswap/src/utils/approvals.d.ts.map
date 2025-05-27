@@ -1,0 +1,1 @@
+{"version":3,"file":"approvals.d.ts","sourceRoot":"","sources":["../../../../../../packages/uniswap/src/utils/approvals.ts"],"names":[],"mappings":"AAAA,KAAK,6BAA6B,GAAG;IACnC,oCAAoC;IACpC,MAAM,EAAE,MAAM,CAAA;IACd,qCAAqC;IACrC,OAAO,EAAE,MAAM,CAAA;CAChB,CAAA;AAED,wBAAgB,yBAAyB,CAAC,IAAI,EAAE,MAAM,GAAG,6BAA6B,CAKrF"}

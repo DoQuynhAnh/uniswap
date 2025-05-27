@@ -1,0 +1,2 @@
+export declare const LockedDocument: import("../factories/createIcon").GeneratedIcon, AnimatedLockedDocument: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=LockedDocument.d.ts.map

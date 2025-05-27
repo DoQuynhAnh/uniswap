@@ -1,0 +1,2 @@
+export declare const PolygonscanLogoLight: import("../factories/createIcon").GeneratedIcon, AnimatedPolygonscanLogoLight: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=PolygonscanLogoLight.d.ts.map

@@ -1,0 +1,2 @@
+export declare const VerticalDotLine: import("../factories/createIcon").GeneratedIcon, AnimatedVerticalDotLine: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=VerticalDotLine.d.ts.map

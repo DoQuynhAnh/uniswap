@@ -1,0 +1,1 @@
+{"version":3,"file":"getPriceImpact.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/uniswap/src/features/transactions/swap/utils/getPriceImpact.ts"],"names":[],"mappings":"AAAA,OAAO,EAAkB,OAAO,EAAiB,MAAM,mBAAmB,CAAA;AAE1E,OAAO,KAAK,EAAE,eAAe,EAAE,MAAM,8DAA8D,CAAA;AA4CnG,wBAAgB,cAAc,CAAC,eAAe,EAAE,eAAe,GAAG,OAAO,GAAG,SAAS,CAapF"}

@@ -1,0 +1,2 @@
+export declare const MessageQuestion: import("../factories/createIcon").GeneratedIcon, AnimatedMessageQuestion: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=MessageQuestion.d.ts.map

@@ -1,0 +1,2 @@
+export declare const PencilDetailed: import("../factories/createIcon").GeneratedIcon, AnimatedPencilDetailed: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=PencilDetailed.d.ts.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"getCloudProviderName.js","sourceRoot":"","sources":["../../../../../../../packages/uniswap/src/utils/cloud-backup/getCloudProviderName.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,wBAAwB,CAAA;AAElD,MAAM,UAAU,oBAAoB;IAClC,IAAI,SAAS,EAAE,CAAC;QACd,OAAO,cAAc,CAAA;IACvB,CAAC;IACD,OAAO,QAAQ,CAAA;AACjB,CAAC"}

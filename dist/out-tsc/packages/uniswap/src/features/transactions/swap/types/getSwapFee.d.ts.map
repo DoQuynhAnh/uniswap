@@ -1,0 +1,1 @@
+{"version":3,"file":"getSwapFee.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/uniswap/src/features/transactions/swap/types/getSwapFee.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,0BAA0B,EAAE,MAAM,yDAAyD,CAAA;AACpG,OAAO,EAAE,OAAO,EAAE,MAAM,oDAAoD,CAAA;AAG5E,wBAAgB,UAAU,CAAC,aAAa,CAAC,EAAE,0BAA0B,GAAG,OAAO,GAAG,SAAS,CAiD1F"}

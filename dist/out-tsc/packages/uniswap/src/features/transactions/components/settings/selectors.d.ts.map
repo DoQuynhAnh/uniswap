@@ -1,0 +1,1 @@
+{"version":3,"file":"selectors.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/uniswap/src/features/transactions/components/settings/selectors.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,qBAAqB,EACrB,wBAAwB,EACzB,MAAM,6DAA6D,CAAA;AACpE,OAAO,EAAE,YAAY,EAAE,MAAM,kCAAkC,CAAA;AAE/D,wBAAgB,yBAAyB,CACvC,GAAG,EAAE,qBAAqB,GACzB,CAAC,KAAK,EAAE,YAAY,KAAK,wBAAwB,CAEnD"}

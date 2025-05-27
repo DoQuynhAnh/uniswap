@@ -1,0 +1,2 @@
+export declare const InsufficientGas: import("../factories/createIcon").GeneratedIcon, AnimatedInsufficientGas: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=InsufficientGas.d.ts.map

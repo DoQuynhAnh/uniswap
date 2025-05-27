@@ -1,0 +1,1 @@
+{"version":3,"file":"ViewOnlyModal.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/features/transactions/modals/ViewOnlyModal.tsx"],"names":[],"mappings":";AAMA,KAAK,kBAAkB,GAAG;IACxB,SAAS,EAAE,MAAM,IAAI,CAAA;IACrB,MAAM,EAAE,OAAO,CAAA;CAChB,CAAA;AAED,wBAAgB,aAAa,CAAC,EAAE,MAAM,EAAE,SAAS,EAAE,EAAE,kBAAkB,GAAG,GAAG,CAAC,OAAO,CAgBpF"}

@@ -1,0 +1,2 @@
+export declare const EtherscanLogoDark: import("../factories/createIcon").GeneratedIcon, AnimatedEtherscanLogoDark: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=EtherscanLogoDark.d.ts.map

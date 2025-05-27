@@ -1,0 +1,2 @@
+export declare const ArrowsLeftRight: import("../factories/createIcon").GeneratedIcon, AnimatedArrowsLeftRight: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=ArrowsLeftRight.d.ts.map

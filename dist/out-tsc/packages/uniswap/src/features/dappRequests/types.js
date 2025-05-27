@@ -1,0 +1,56 @@
+export var DappRequestType;
+(function (DappRequestType) {
+    DappRequestType["ChangeChain"] = "ChangeChain";
+    DappRequestType["GetAccount"] = "GetAccount";
+    DappRequestType["GetChainId"] = "GetChainId";
+    DappRequestType["GetPermissions"] = "GetPermissions";
+    DappRequestType["RequestAccount"] = "RequestAccount";
+    DappRequestType["RequestPermissions"] = "RequestPermissions";
+    DappRequestType["RevokePermissions"] = "RevokePermissions";
+    DappRequestType["SendTransaction"] = "SendTransaction";
+    DappRequestType["SignMessage"] = "SignMessage";
+    DappRequestType["SignTransaction"] = "SignTransaction";
+    DappRequestType["SignTypedData"] = "SignTypedData";
+    DappRequestType["UniswapOpenSidebar"] = "UniswapOpenSidebar";
+    DappRequestType["SendCalls"] = "SendCalls";
+    DappRequestType["GetCallsStatus"] = "GetCallsStatus";
+    DappRequestType["GetCapabilities"] = "GetCapabilities";
+})(DappRequestType || (DappRequestType = {}));
+export var DappResponseType;
+(function (DappResponseType) {
+    DappResponseType["AccountResponse"] = "AccountResponse";
+    DappResponseType["ChainIdResponse"] = "ChainIdResponse";
+    DappResponseType["ChainChangeResponse"] = "ChainChangeResponse";
+    DappResponseType["ErrorResponse"] = "ErrorResponse";
+    DappResponseType["GetPermissionsResponse"] = "GetPermissions";
+    DappResponseType["RequestPermissionsResponse"] = "RequestPermissions";
+    DappResponseType["RevokePermissionsResponse"] = "RevokePermissions";
+    DappResponseType["SignTransactionResponse"] = "SignTransactionResponse";
+    DappResponseType["SendTransactionResponse"] = "SendTransactionResponse";
+    DappResponseType["SignTypedDataResponse"] = "SignTypedDataResponse";
+    DappResponseType["SignMessageResponse"] = "SignMessageResponse";
+    DappResponseType["UniswapOpenSidebarResponse"] = "UniswapOpenSidebarResponse";
+    DappResponseType["SendCallsResponse"] = "SendCallsResponse";
+    DappResponseType["GetCallsStatusResponse"] = "GetCallsStatusResponse";
+    DappResponseType["GetCapabilitiesResponse"] = "GetCapabilitiesResponse";
+})(DappResponseType || (DappResponseType = {}));
+export var EthMethod;
+(function (EthMethod) {
+    EthMethod["EthSign"] = "eth_sign";
+    EthMethod["EthSendTransaction"] = "eth_sendTransaction";
+    EthMethod["SignTypedData"] = "eth_signTypedData";
+    EthMethod["SignTypedDataV4"] = "eth_signTypedData_v4";
+    EthMethod["WalletSwitchEthereumChain"] = "wallet_switchEthereumChain";
+    EthMethod["WalletGetCapabilities"] = "wallet_getCapabilities";
+    EthMethod["WalletSendCalls"] = "wallet_sendCalls";
+    EthMethod["WalletGetCallsStatus"] = "wallet_getCallsStatus";
+    EthMethod["WalletAddEthereumChain"] = "wallet_addEthereumChain";
+    EthMethod["PersonalSign"] = "personal_sign";
+    EthMethod["EthChainId"] = "eth_chainId";
+    EthMethod["EthRequestAccounts"] = "eth_requestAccounts";
+    EthMethod["EthAccounts"] = "eth_accounts";
+    EthMethod["WalletGetPermissions"] = "wallet_getPermissions";
+    EthMethod["WalletRequestPermissions"] = "wallet_requestPermissions";
+    EthMethod["WalletRevokePermissions"] = "wallet_revokePermissions";
+})(EthMethod || (EthMethod = {}));
+//# sourceMappingURL=types.js.map

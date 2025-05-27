@@ -1,0 +1,2 @@
+export const getIsButtonDisabled = ({ isDisabled, loading }) => { var _a; return (_a = (isDisabled || loading)) !== null && _a !== void 0 ? _a : false; };
+//# sourceMappingURL=getIsButtonDisabled.js.map
